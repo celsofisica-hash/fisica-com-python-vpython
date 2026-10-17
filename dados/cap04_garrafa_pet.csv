@@ -1,0 +1,36 @@
+# Esvaziamento de uma garrafa PET por um furo lateral — dados simulados
+# Diâmetro interno da garrafa (parte cilíndrica): 90,0 mm (paquímetro)
+# Furo feito com broca de 4,0 mm; diâmetro medido 4,0 ± 0,1 mm
+# Altura da água acima do centro do furo, lida no vídeo (régua milimetrada)
+t_s,h_mm
+0,198
+5,187
+10,176
+15,165
+20,154
+25,144
+30,133
+35,124
+40,113
+45,107
+50,98
+55,90
+60,81
+65,73
+70,68
+75,59
+80,54
+85,47
+90,41
+95,35
+100,31
+105,26
+110,21
+115,19
+120,14
+125,13
+130,10
+135,9
+140,7
+145,5
+150,4

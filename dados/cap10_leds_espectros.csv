@@ -1,0 +1,10 @@
+# Comprimento de onda de pico e largura a meia altura de cada LED
+# Medidos com espectrômetro de fibra óptica (resolução 1,5 nm) — dados simulados
+led,lambda_pico_nm,largura_nm
+infravermelho,941.4,45
+vermelho,630,18
+ambar,593.3,16
+amarelo-verde,568.2,20
+verde-InGaN,522,32
+azul,468.9,25
+violeta,405.3,14

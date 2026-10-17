@@ -1,0 +1,30 @@
+# Ensaio de flexão em três pontos de uma régua de alumínio — dados simulados
+# Distância entre os cutelos: L = 400,0 mm (trena, incerteza 0,5 mm)
+# Massas aferidas (tolerância 0,1 g) penduradas no meio do vão
+# Flecha lida em relógio comparador de resolução 0,01 mm
+massa_g,sentido,flecha_mm
+0,carga,-0.01
+50,carga,0.16
+100,carga,0.35
+150,carga,0.51
+200,carga,0.67
+250,carga,0.85
+300,carga,1.02
+350,carga,1.18
+400,carga,1.35
+450,carga,1.51
+500,carga,1.69
+550,carga,1.86
+600,carga,2.01
+550,descarga,1.87
+500,descarga,1.69
+450,descarga,1.53
+400,descarga,1.35
+350,descarga,1.19
+300,descarga,1.01
+250,descarga,0.84
+200,descarga,0.68
+150,descarga,0.51
+100,descarga,0.34
+50,descarga,0.18
+0,descarga,-0

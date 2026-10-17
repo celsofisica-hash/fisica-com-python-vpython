@@ -1,0 +1,8 @@
+# Dimensões da seção da régua em cinco pontos — dados simulados
+# Largura com paquímetro (resolução 0,02 mm); espessura com micrômetro (0,001 mm)
+medida,largura_b_mm,espessura_h_mm
+1,25.41,2.975
+2,25.41,2.989
+3,25.4,2.978
+4,25.41,2.985
+5,25.37,2.984

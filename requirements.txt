@@ -1,0 +1,6 @@
+vpython>=7.6
+numpy
+scipy
+pandas
+matplotlib
+setuptools<81   # o VPython ainda usa o módulo pkg_resources
